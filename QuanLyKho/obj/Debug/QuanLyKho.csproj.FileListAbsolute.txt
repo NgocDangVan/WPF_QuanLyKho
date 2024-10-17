@@ -60,3 +60,7 @@ E:\Prj\WPF\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.CoreCompileInputs.cach
 E:\Prj\WPF\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.CopyComplete
 E:\Prj\WPF\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
 E:\Prj\WPF\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
+E:\Prj\WPF\QuanLyKho\QuanLyKho\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Prj\WPF\QuanLyKho\QuanLyKho\obj\Debug\ResourceXAML\MainResource.baml
+E:\Prj\WPF\QuanLyKho\QuanLyKho\obj\Debug\LoginWindow.g.cs
+E:\Prj\WPF\QuanLyKho\QuanLyKho\obj\Debug\LoginWindow.baml
